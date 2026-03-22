@@ -18,7 +18,7 @@ Identify top-performing regions and cost-efficient ad spends.
 
 Conduct sectoral analysis for Canadian markets to highlight growth opportunities.
 
-Present results through interactive Excel dashboards.
+Present results through interactive Excel and Power BI dashboards.
 
 📁 Dataset Description
 Column	Description
