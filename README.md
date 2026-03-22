@@ -157,8 +157,6 @@ Module: Consultancy Experience Project (CEP)
 
 Tools Used: Microsoft Excel, Python, Power BI
 
-Guidance: Academic Supervisor & Revitalize Consulting Team
-
 👤 Author
 
 Neeraj Raj Srinivasa Raju
